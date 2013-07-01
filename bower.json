@@ -1,6 +1,6 @@
 {
   "name": "Backbone-relational",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "main": "backbone-relational.js",
   "dependencies": {
     "backbone": ">= 1.0.0",
